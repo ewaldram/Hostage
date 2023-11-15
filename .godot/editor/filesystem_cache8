@@ -1,10 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699413657
+::res://::1700017164
 icon.svg::CompressedTexture2D::7072631988156864441::1699408417::1699408423::1::::<><>::
+test_char.tscn::PackedScene::367560340619862771::1699745746::0::1::::<><>::uid://dypie88esf54x::::res://art assets/Characters/testchar.png
 ::res://art assets/::1699413911
-::res://art assets/Characters/::1699413858
-Demo MC Sprite Sheet.png::CompressedTexture2D::8449787936534624037::1687747120::1699414034::1::::<><>::
-::res://art assets/OG Title UI/::1699413938
+::res://art assets/Characters/::1699588783
+Demo MC Sprite Sheet.png::CompressedTexture2D::8449787936534624037::1700017256::1700017262::1::::<><>::
+testchar.png::CompressedTexture2D::8875254628275856753::1699588558::1699588783::1::::<><>::
+::res://art assets/OG Title UI/::1699414034
 Continue-Full.png::CompressedTexture2D::7205681424501985790::1650044994::1699414034::1::::<><>::
 Continue-Text 1.png::CompressedTexture2D::2462001286152414844::1650046175::1699414034::1::::<><>::
 Continue-Text.png::CompressedTexture2D::1213150175116308567::1650044937::1699414034::1::::<><>::
@@ -26,24 +28,27 @@ Text Box.png::CompressedTexture2D::1815172769387457560::1651265925::1699414034::
 Title Screen.png::CompressedTexture2D::170604313416199816::1650045384::1699414034::1::::<><>::
 x 1.png::CompressedTexture2D::6883563471627557289::1650045942::1699414034::1::::<><>::
 x.png::CompressedTexture2D::7166212745770142620::1650045323::1699414034::1::::<><>::
-::res://art assets/Tiles/::1699413866
+::res://art assets/Tiles/::1699414034
 StorageTiles.png::CompressedTexture2D::2365916931933870429::1687341479::1699414034::1::::<><>::
 ::res://fonts/::1699413665
-::res://fonts/OpenType/::1671161793
+::res://fonts/OpenType/::1699414034
 SB Standard Bold.otf::FontFile::6977367313844572034::1651267944::1699414033::1::::<><>::
 SB Standard Regular.otf::FontFile::8573167707859547317::1651267944::1699414033::1::::<><>::
 SB Standard Rounded Bold.otf::FontFile::3433280891560159575::1651267944::1699414033::1::::<><>::
 SB Standard Rounded Regular.otf::FontFile::5188986553889011943::1651267944::1699414033::1::::<><>::
-::res://fonts/WOFF/::1671161793
+::res://fonts/WOFF/::1699414034
 sb_standard_bold-webfont.woff::FontFile::8787696372475200944::1651267944::1699414033::1::::<><>::
 sb_standard_regular-webfont.woff::FontFile::8209966182160900434::1651267944::1699414033::1::::<><>::
 sb_standard_rounded_bold-webfont.woff::FontFile::7222749375606460961::1651267944::1699414033::1::::<><>::
 sb_standard_rounded_regular-webfont.woff::FontFile::4830843768623776244::1651267944::1699414033::1::::<><>::
-::res://fonts/WOFF2/::1671161793
+::res://fonts/WOFF2/::1699414034
 sb_standard_bold-webfont.woff2::FontFile::8457295365323000987::1651267944::1699414033::1::::<><>::
 sb_standard_regular-webfont.woff2::FontFile::6119328882963781066::1651267944::1699414033::1::::<><>::
 sb_standard_rounded_bold-webfont.woff2::FontFile::6164034991447025028::1651267944::1699414033::1::::<><>::
 sb_standard_rounded_regular-webfont.woff2::FontFile::2915847169059037948::1651267944::1699414033::1::::<><>::
-::res://scenes/::1699409311
-Player.tscn::PackedScene::8181870708556694595::1699409311::0::1::::<><>::
+::res://scenes/::1699746040
+Main.tscn::PackedScene::5324964628317987510::1699745746::0::1::::<><>::uid://dotmhk0tw0ddj::::res://scenes/Player.tscn
+Player.gd::GDScript::-1::1699502865::0::1::::<>Node2D<>::
+Player.tscn::PackedScene::8181870708556694595::1699746040::0::1::::<><>::uid://dsne1jls03sor::::res://art assets/Characters/Demo MC Sprite Sheet.png<>res://scenes/Player.gd
+TitleScreen.tscn::PackedScene::6898199245250886137::1699745746::0::1::::<><>::
 ::res://scripts/::1699409135
